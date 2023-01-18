@@ -1,3 +1,4 @@
+//ITERATION 1: RECIPE SCHEMA
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
